@@ -1,0 +1,11 @@
+{
+  "name": "payments-api",
+  "version": "1.0.0",
+  "description": "Card payment authorisation and settlement service",
+  "private": true,
+  "dependencies": {
+    "lodash": "4.17.19",
+    "minimist": "1.2.5",
+    "axios": "0.21.0"
+  }
+}
